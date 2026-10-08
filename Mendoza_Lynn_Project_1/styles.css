@@ -1,0 +1,17 @@
+body {
+    header {
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    h4 {
+        text-decoration: underline;
+    }
+
+    h3{
+        text-decoration: 30% red dotted underline;
+    }
+}
